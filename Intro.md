@@ -1,16 +1,13 @@
 # Container Native Development with OKE Workshop
 
 Welcome to the Oracle Public Cloud Container Native Development with OKE workshop. This workshop will walk you through the process of moving an existing application into a containerized CI/CD pipeline and deploying it to a managed Kubernetes service in the Oracle Public Cloud.
-
 To learn more about this workshop please watch the video below.
 
 [![Watch Workshop Overview](images/oraclecode/youtube.png)](https://youtu.be/9n8JMlvjFiw)
 
 ### **Step 1**: Acquire an Oracle Cloud Trial or Workshop Account
 
-<span class="gh-pages-note">
-  The Lab documentation is <b>best viewed</b> by using the Workshop's <a href="https://oracle.github.io/learning-library/workshops/container-native-development-with-oke/">GitHub Pages site</a>
-</span>
+- The Lab documentation is **best viewed** by using the Workshop's [GitHub Pages site](https://oracle.github.io/learning-library/workshops/container-native-development-with-oke/).
 
 - Bookmark this page for future reference.
 
@@ -24,6 +21,8 @@ To learn more about this workshop please watch the video below.
 
 - You may proceed to [Lab 100](LabGuide100.md)
 
-- _You can see a list of Lab Guides_ by clicking on the **Menu Icon** in the upper left corner of the browser window. You're now ready to continue with **Lab 100**.
+- _You can see a list of Lab Guides_ by clicking on the **Menu Icon** in the upper right corner of the browser window. You're now ready to continue with **Lab 100**.
+
+  ![](images/LabMenuIcon-1.png)
 
   ![](images/LabMenuIcon.png)
